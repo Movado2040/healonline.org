@@ -1,0 +1,64 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   About/images/022212-health-teen-dating-couple-violence.jpg
+#	new file:   About/images/2014_1002_BestBuy_BoysGirls_TechCenter_149.jpg
+#	new file:   About/images/5771025070_4572fee0c4_o.jpg
+#	new file:   About/images/BoyinWhite.jpg
+#	new file:   About/images/ContactNOW.png
+#	renamed:    images/ContactNOW.psd -> About/images/ContactNOW.psd
+#	new file:   About/images/Daneisha Norman.jpg
+#	renamed:    images/Donate.psd -> About/images/Donate.psd
+#	new file:   About/images/EP-140709395.jpg
+#	new file:   About/images/HEAL_Logo.png
+#	new file:   About/images/IMG_4642.jpg
+#	new file:   About/images/Image1.png
+#	new file:   About/images/Image2.png
+#	new file:   About/images/Image3.png
+#	new file:   About/images/Image4.png
+#	new file:   About/images/Image5.png
+#	new file:   About/images/Little-Black-Kids-Hairstyles.jpg
+#	new file:   About/images/NERD-CRLS-TEALS_011.jpg
+#	new file:   About/images/Teens-playing-outside.jpg
+#	new file:   About/images/Teens.jpg
+#	new file:   About/images/amart3jpg-bb6e0afecf4cb3c4.jpg
+#	new file:   About/images/backstage+workshop+at+central+111911+008.jpg
+#	new file:   About/images/bwdsc_4767crop2.jpg
+#	new file:   About/images/depressed-teen-1680.jpg
+#	new file:   About/images/essentials/About.jpg
+#	new file:   About/images/essentials/Donate.png
+#	renamed:    images/essentials/HEAL_Logo.psd -> About/images/essentials/HEAL_Logo.psd
+#	new file:   About/images/essentials/Magnify.png
+#	renamed:    images/essentials/Magnify.psd -> About/images/essentials/Magnify.psd
+#	renamed:    images/essentials/Refer.psd -> About/images/essentials/Refer.psd
+#	new file:   About/images/essentials/Refer_1.png
+#	new file:   About/images/essentials/Refer_2.png
+#	new file:   About/images/essentials/Refer_3.png
+#	new file:   About/images/essentials/Refer_4.png
+#	renamed:    images/essentials/jumboNAV_Buttons.psd -> About/images/essentials/jumboNAV_Buttons.psd
+#	new file:   About/images/essentials/jumboNAV_Down.png
+#	new file:   About/images/essentials/jumboNAV_Over.png
+#	new file:   About/images/essentials/jumboNAV_Up.png
+#	new file:   About/images/group_shot_horizontal_283f6e7c82ac91cfedf1161d8c95b7af.jpg
+#	new file:   About/images/happy-teens.jpg
+#	new file:   About/images/inner-city-kid.jpg
+#	new file:   About/images/jumboImage.png
+#	new file:   About/images/maxresdefault.jpg
+#	new file:   About/images/o-SAD-KIDS-facebook.jpg
+#	new file:   About/images/sad-kid.jpg
+#	new file:   About/images/ya 005edit.jpg
+#	new file:   "About/images/\302\251CarlyCram_sad_kids_closed_eyes-4.jpg"
+#	new file:   About/index.html
+#	new file:   About/js/gallery.js
+#	new file:   About/js/jquery.js
+#	new file:   About/js/jquery.min.js
+#	new file:   About/style.css
+#	deleted:    HEAL_Wireframe.psd
+#	modified:   index.html
+#	new file:   pages.txt
+#
+
